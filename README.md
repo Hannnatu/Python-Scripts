@@ -10,8 +10,9 @@ The script prompts the user to input one word related to the type of fortune the
 Based on the input, the script selects a random message from a predefined set of fortunes.
 If the input word doesn't match any of the predefined categories, the script will provide a default fortune message.
 
+
 Converter Script (Script.py)
-This script takes input in days and converts it to hours.
+This Python script provides a simple utility to convert days into hours. It defines a function days_to_units that calculates the equivalent hours for a given number of days. The script also includes an interactive feature where users can input a number of days, and it will return the calculated hours.
 
 
 
